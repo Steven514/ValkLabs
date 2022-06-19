@@ -1176,7 +1176,7 @@ body {
     height: 100px;
     transition: all 0.3s ease-out; }
     .header-line-wrapper.affix-top header .logo img {
-      max-width: 5%; }
+      max-width: 30%; }
     .header-line-wrapper.affix-top header .main-menu .menu > li {
       line-height: 100px; }
     .header-line-wrapper.affix-top header .right-bl .search-wrapper {
