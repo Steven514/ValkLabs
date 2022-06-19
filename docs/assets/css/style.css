@@ -613,7 +613,7 @@ img {
       transition: all 0.3s ease-out; }
 
 .page-name {
-  padding: 235px 0 100px 0;
+  padding: 235px 0 0px 0;
   background-repeat: no-repeat;
   background-size: auto 120%; }
   .page-name .page-title {
